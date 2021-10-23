@@ -1,14 +1,15 @@
+Hloo
+<!--
+**EthicalHackerrxce/EthicalHackerrxce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-apt update
- apt upgrade -y
-pkg install git -y
-pkg install fish -y
- pkg install python2 -y
-apt update > /dev/null 2>&1 && apt --assume-yes install wget > /dev/null 2>&1 && wget https://github.com/MasterDevX/Termux-ADB/raw/master/InstallTools.sh -q && bash InstallTools.sh
- git clone https://github.com/EthicalHackerrxce/EthicalHackerrxce.git
+Here are some ideas to get you started:
 
-apt install git php openssh curl -y
-git clone https://github.com/htr-tech/zphisher cd
-ls
-cd EthicalHackerrxce.git
- EthicalHackerrxce.py
+...1
+2
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+-..
+- ⚡ Fun fact: ...
+-->
